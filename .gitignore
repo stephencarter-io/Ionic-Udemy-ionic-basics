@@ -1,0 +1,15 @@
+*~
+*.sw[mnpcod]
+*.log
+*.lock
+*.tmp
+*.tmp.*
+log.txt
+
+.git/
+.vscode/
+.sourcemaps/
+node_modules/
+www/
+
+.package.tmp.json
